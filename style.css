@@ -1,0 +1,28 @@
+
+body{
+    background-color: red;
+}
+h1{
+    text-align: center;
+    background-color: aqua;
+    color: white;
+}
+.ota{
+    background-color: bisque;
+}
+.box{
+    text-align: center;
+    background-color: white;
+    width: 350px;
+    padding: 15px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+img{
+    width: 200px;
+}
+button{
+    background-color: black;
+    border-radius: 10px;
+    color: white;
+}
